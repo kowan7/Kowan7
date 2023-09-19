@@ -9,9 +9,14 @@
   - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
 - <b>Currently working on - Soc Level 1 Path</b>
   - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
+    
+</h2> Certifications</h2>
+
+-</b>[CompTIA Network+]()
+  
+-</b>[CompTIA Security+]()
+
 <h2> 🤳 Connect with me:</h2>
-
-
 [<img align="left" alt="JoshMadakor | LinkedI![image](https://github.com/kowan7/Kowan7/assets/143843214/7b3db054-ab12-4c24-925f-f1b273e2c852)
 n" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
