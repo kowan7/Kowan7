@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Introduction to Cyber Security Learning Path/b>
+- <b>Introduction to Cyber Security Learning Path</b>
   - [Try Hackme Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
 )
 - <b>Pre Security Learning path</b>
