@@ -7,8 +7,8 @@
 )
 - <b>Pre Security Learning path</b>
   - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
-
-
+- <b>Currently working on - Soc Level 1 Path</b>
+  - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
 <h2> 🤳 Connect with me:</h2>
 
 
