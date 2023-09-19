@@ -6,9 +6,10 @@
   - [Try Hackme Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
 )
 - <b>Pre Security Learning path</b>
-  - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
+  - [Try Hackme Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MNZZD3AAEG.png)
+  
 - <b>Currently working on - Soc Level 1 Path</b>
-  - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
+  - [Try Hackme Certificate of Completion]()
     
 </h2> Certifications</h2>
 
