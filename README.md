@@ -2,14 +2,16 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Try Hackme Certificate of Completion</b>
+  - [Introduction to Cyber Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
+))
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedI![image](https://github.com/kowan7/Kowan7/assets/143843214/7b3db054-ab12-4c24-925f-f1b273e2c852)
+n" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
