@@ -4,7 +4,7 @@
 
 - <b>Try Hackme Certificate of Completion</b>
   - [Introduction to Cyber Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
-))
+)
 
 
 <h2> 🤳 Connect with me:</h2>
