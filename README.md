@@ -2,11 +2,11 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Try Hackme Certificate of Completion</b>
-  - [Introduction to Cyber Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
+- <b>Introduction to Cyber Security Learning Path/b>
+  - [Try Hackme Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
 )
-- <b>Try Hackme Certificate of Completion</b>
-  - [Pre Security Learning path](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
+- <b>Pre Security Learning path</b>
+  - [Try Hackme Certificate of Completion](https://github.com/kowan7/Kowan7/assets/143843214/6e50cda7-99e1-42cd-b91c-f3b43a9fc974)
 
 
 <h2> 🤳 Connect with me:</h2>
