@@ -2,6 +2,8 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Performing a denial of service attack from the WAN Lab](https://github.com/kowan7/Performing-a-denial-of-service-Attack-from-the-WAN-Lab/tree/main)<b>
+
 - <b>Introduction to Cyber Security Learning Path</b>
   - [Try Hackme Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JM4CUBPZSY.png
 )
