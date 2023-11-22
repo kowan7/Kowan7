@@ -2,6 +2,7 @@
   
 <h2>👨‍💻 My Projects:</h2>
 
+- [Nessus-Essential-Vulnerability-Management-Lab](https://github.com/kowan7/Nessus-Essentials-Vulnerability-Management-Lab/blob/main/README.md)
 - [Building-a-Resilient-security-Infrastructure:Microsoft Azure SOC & Honeynet Lab](https://github.com/kowan7/Building-a-Resilient-security-Infrastructure)
 - [Performing a denial of service attack from the WAN Lab](https://github.com/kowan7/Performing-a-denial-of-service-Attack-from-the-WAN-Lab/tree/main)<b>
 
