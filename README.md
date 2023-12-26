@@ -2,8 +2,12 @@
   
 <h2>👨‍💻 My Projects:</h2>
 
+- [Multi-Level Approach To Enterprise Security](https://github.com/kowan7/Multi-Level-Approach-to-Enterprise-Security/blob/main/README.md)
+  
 - [Nessus-Essential-Vulnerability-Management-Lab](https://github.com/kowan7/Nessus-Essentials-Vulnerability-Management-Lab/blob/main/README.md)
+  
 - [Building-a-Resilient-security-Infrastructure:Microsoft Azure SOC & Honeynet Lab](https://github.com/kowan7/Building-a-Resilient-security-Infrastructure)
+  
 - [Performing a denial of service attack from the WAN Lab](https://github.com/kowan7/Performing-a-denial-of-service-Attack-from-the-WAN-Lab/tree/main)<b>
 
 -  [Detecting Malware and Unauthorized Devices](https://github.com/kowan7/Detecting-Malware-and-Unauthorized-Devices)
@@ -16,7 +20,8 @@
   
 - <b>Currently working on - Soc Level 1 Path</b>
   - [Try Hackme Certificate of Completion]()
-    
+
+ 
 </h2> Certifications</h2>
 
 -</b>[CompTIA Network+](https://www.credly.com/badges/9d12eb4d-6bc0-4d7e-9398-cd4b92452df9/public_url)  
