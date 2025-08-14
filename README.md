@@ -28,6 +28,8 @@
 
 -</b>[CompTIA Security+](https://www.credly.com/badges/474ad65b-b9d1-41c3-9a29-321f03ca1db3/public_url)
 
+-</b>[ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/13445db1-f357-40bc-a7f3-9d5e70a70416).
+
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" ![image](https://github.com/ko![image](https://github.com/kowan7/Kowan7/assets/143843214/ff81b732-e820-4f9b-8b0c-0036fe93d90f)
 wan7/Kowan7/assets/143843214/1e773ac6-015c-427e-a2e4-62b68d61ca8f)
